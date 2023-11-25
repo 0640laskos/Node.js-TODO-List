@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "description": "play video games",
+    "status": "Complete"
+  },
+  {
+    "id": 2,
+    "description": "do homework",
+    "status": "Complete"
+  },
+  {
+    "id": 3,
+    "description": "drive car",
+    "status": "Incomplete"
+  },
+  {
+    "id": 4,
+    "description": "have breakfast",
+    "status": "Incomplete"
+  }
+]
